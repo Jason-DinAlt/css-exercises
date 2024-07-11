@@ -1,0 +1,16 @@
+.odd-numbered-element {
+    background-color: rgba(255, 167, 167, 1);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#divOne {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+#thirdElement {
+    font-size: 24px;
+}
+#divTwo {
+    background-color: rgba(128, 255, 128, 1);
+    font-size: 24px;
+    font-weight: bold;
+}
